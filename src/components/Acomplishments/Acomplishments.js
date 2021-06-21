@@ -7,7 +7,7 @@ const data = [
   { number: 15, text: 'Open Source Projects'},
   { number: 300, text: 'GFG questions', },
   { number: 2, text: 'Hackathon participation', },
-  { number: 1300, text: 'Linkedln Connections', }
+  { number: 3, text: 'Certifications', }
 ];
 
 const Acomplishments = () => (
